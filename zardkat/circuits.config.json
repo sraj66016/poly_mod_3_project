@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SumitCircuit",
+    "protocol": "groth16",
+    "circuit": "SumitCircuit/circuit.circom",
+    "input": "SumitCircuit/input.json",
+    "wasm": "SumitCircuit/out/circuit.wasm",
+    "zkey": "SumitCircuit/out/SumitCircuit.zkey",
+    "vkey": "SumitCircuit/out/SumitCircuit.vkey",
+    "r1cs": "SumitCircuit/out/SumitCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
